@@ -13,8 +13,7 @@
 
 ## 🔨 Tech Stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- used as the main -->
-    <p><strong>used as the main</strong></p>
+<!--     <p><strong>used as the main</strong></p> -->
     <div>
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -24,9 +23,8 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     </div>
 </div>
-<br>
+<!-- <br>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- used at least once -->
     <p><strong>used at least once</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
@@ -47,7 +45,7 @@
       <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>  
     </div>
-</div>
+</div> -->
 
 <!--
 **moa1128/moa1128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
